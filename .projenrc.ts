@@ -7,7 +7,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   jsiiVersion: '~5.0.0',
   name: 'lex-v2-bot-construct',
   projenrcTs: true,
-  repositoryUrl: 'https://github.com/jrobertson.88/lex-v2-bot-construct.git',
+  repositoryUrl: 'https://github.com/jdrobertso/lex-v2-bot-construct.git',
 
   // deps: [],                /* Runtime dependencies of this module. */
   // description: undefined,  /* The description is just a string that helps people understand the purpose of the package. */
